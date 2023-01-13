@@ -2,7 +2,7 @@
 
   ## **Articles**
   - http://coursegalaxy.com/design-patterns/builder.html
-  - https://scoutapm.com/blog/rails-design-patterns
+  - https://stackoverflow.com/questions/37364454/what-is-a-ruby-factory-method
   - https://medium.com/kkempin/builder-design-pattern-in-ruby-dfa2d557ff1b
 
   ## **Where it is used**
