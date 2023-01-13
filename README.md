@@ -17,10 +17,9 @@ These concern the process of object creation. They include :-
   create different object by doing isolated instantiations
   ```
  3. **Singleton**
- 
  4. **Prototype**
 
 - ## Structural Design Patterns
 
-- ## Design Patterns
+- ## Behavioral Design Patterns
 
